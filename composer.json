@@ -1,5 +1,7 @@
 {
-    "require": {
-        "composer/installers": "~1.0"
-    }
+	"name"   : "johnpbloch/help-me-help-you",
+	"type"   : "wordpress-plugin",
+	"require": {
+		"composer/installers": "~1.0"
+	}
 }
